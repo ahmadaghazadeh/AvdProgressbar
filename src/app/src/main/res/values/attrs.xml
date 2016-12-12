@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AdvProgressbar">
+        <attr name="percent" format="integer" />
+        <attr name="res_background_id" format="reference" />
+        <attr name="res_progressbar_bar_id" format="reference" />
+        <attr name="text_padding_left" format="integer" />
+        <attr name="text_padding_right" format="integer" />
+        <attr name="text_padding_bottom" format="integer" />
+        <attr name="text_padding_top" format="integer" />
+        <attr name="text_padding" format="integer" />
+        <attr name="text_font_size" format="integer" />
+        <attr name="text_font" format="string"/>
+        <attr name="text_color" format="color"/>
+    </declare-styleable>
+
+</resources>
